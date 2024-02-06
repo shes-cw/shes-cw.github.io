@@ -6,31 +6,31 @@ navbar_entries:
     url: blog
 
   - title: website
-    url: https://www.abhinav.co
+    url: https://github.com/shes-cw
 
 project_entries:
   - title: Project 1
     url: overview-post
-    desc: EMG & TENS Prototype
+    desc: In work...
 
   - title: Project 2
-    url: overview-post
-    desc: Stefans Tornado
+    url: 
+    desc: In work...
 
   - title: Project 3
-    url: overview-post
-    desc: EMG Module
+    url: 
+    desc: In work...
 
   - title: Project 4
-    url: overview-post
-    desc: TENS Module with Arduino
+    url: 
+    desc: In work...
 
   - title: Project 5
-    url: overview-post
-    desc: Self-balancing Spoon for Parkinson assistance
+    url: 
+    desc: In work...
 
   - title: Project 6
-    url: overview-post
+    url: 
     desc: In work...
 
 old_project_entries:
