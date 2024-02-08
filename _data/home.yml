@@ -34,21 +34,17 @@ project_entries:
     desc: In work...
 
 old_project_entries:
-  - title: Soopr
+  - title: EMG Module
     url: 
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+    desc: Prototype of electromyography signal capture.
 
-  - title: Cookie
+  - title: Prototype of Self-Stabilizing Spoon
     url: 
-    desc: An open source landing website with supporting pages and integrated blog
+    desc: Self-stabilizing spoon for people with Parkinson Disease.
 
-  - title: Moonwalk
+  - title: TENS Module
     url: 
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: Humangous
-    url: 
-    desc: The better people know you, the better they collaborate
+    desc: Transcutaneous Electrical Nerve Stimulation prototype for therapy usage.
 
 footer_entries:
   - title: github
